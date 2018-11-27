@@ -5,7 +5,7 @@
 * ["Ethereum yellow paper"](http://gavwood.com/paper.pdf)
 
 ## Tutorials
-* ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf)
+* Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.
 
 ## Tools
 * Bonneau J. ["EthIKS: Using Ethereum to audit a CONIKS key transparency log."](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf) FC '16.

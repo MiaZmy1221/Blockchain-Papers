@@ -11,7 +11,7 @@
 ## Tools (CCS)
 * Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter."](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.
 * Juels A, Kosba A, Shi E. ["The Ring of Gyges: Investigating the Future of Criminal Smart Contracts."](https://www.initc3.org/files/Gyges.pdf) CCS'16.
-* ["."]()
+* Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf)CCS '16.
 * ["."]()
 * ["."]()
 * ["."]()

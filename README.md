@@ -1,8 +1,8 @@
 # List of Smart Contract Papers
 
 ## Basic Readings 
-* ["Ethereum white paper: A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) 
-* ["Ethereum yellow paper: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf)
+* Ethereum white paper ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) 
+* Ethereum yellow paper ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf)
 
 ## Tutorials
 * Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.

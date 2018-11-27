@@ -20,5 +20,6 @@
 * ["."]()
 
 ## Others
+* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) '15.
 * Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) SP'16.
 * Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) SP'16.

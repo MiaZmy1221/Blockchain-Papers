@@ -7,7 +7,7 @@
 ## Papers about tools
 * [Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf)
 * [EthIKS: Using Ethereum to audit a CONIKS key transparency log](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf)
-* [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS '16.
+* Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter"](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.
 * [Ethereum yellow paper](http://gavwood.com/paper.pdf)
 * [Ethereum yellow paper](http://gavwood.com/paper.pdf)
 * [Ethereum yellow paper](http://gavwood.com/paper.pdf)

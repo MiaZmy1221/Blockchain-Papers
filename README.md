@@ -12,12 +12,15 @@
 ## Four Top conferences
 Only about smart contracts.
 ### CCS
+* Loi Luu, Jason Teutsch, Raghav Kulkarn. ["Demystifying Incentives in the Consensus Computer."](https://eprint.iacr.org/2015/702.pdf) CCS '15.
 * Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter."](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.
 * Juels A, Kosba A, Shi E. ["The Ring of Gyges: Investigating the Future of Criminal Smart Contracts."](https://www.initc3.org/files/Gyges.pdf) CCS'16.
 * Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16.
-
 * Petar Tsankov, Petar Tsankov, Dana Drachsler-Cohen. ["Securify: Practical Security Analysis of Smart Contracts."](https://arxiv.org/pdf/1806.01143.pdf) CCS '18.
 * Massimo Bartoletti, Roberto Zunino. ["BitML: A Calculus for Bitcoin Smart Contracts."](https://eprint.iacr.org/2018/122.pdf) CCS '18.
+
+### IEEE S&P
+* Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.
 
 ### USENIX
 * Johannes Krupp, Christian Rossow. ["teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf) USENIX '18.
@@ -31,9 +34,15 @@ Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity
 * Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.
 * Hubert Ritzdorf, Karl Wust, Arthur Gervais, Guillaume Felley, Srdjan Capkun. ["TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-4_Ritzdorf_paper.pdf) NDSS '18.
 
-### IEEE S&P
-* Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.
-
 ## Others
 * Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) '15.
 * Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) SP'16.
+* Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) '16.
+* Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) '17.
+* . ["."]() '16.
+* . ["."]() '16.
+* . ["."]() '16.
+* . ["."]() '16.
+
+
+

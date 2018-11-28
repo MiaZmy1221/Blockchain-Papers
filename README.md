@@ -6,7 +6,7 @@ Papers are merely about smart contracts.
 * Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) Yellow paper, '14.
 
 ## IoT
-* Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) IEEE access '16.
+* Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) IEEE Access '16.
 
 ## Tutorial
 * Bill Marino, authorAri Juels. [Setting Standards for Altering and Undoing Smart Contracts.](https://www.are.na/block/838820) RuleML '16.
@@ -23,13 +23,13 @@ Papers are merely about smart contracts.
 * Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.
 
 ## Pirvacy
-* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv preprint arXiv:1506.03471 '15.
+* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.
 * Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.
 * McCorry P, Shahandashti SF, Hao F. ["A Smart Contract for Boardroom Voting with Maximum Voter Privacy."](http://fc17.ifca.ai/preproceedings/paper_80.pdf) FC '17.
 * Hubert Ritzdorf, Karl Wust, Arthur Gervais, Guillaume Felley, Srdjan Capkun. ["TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-4_Ritzdorf_paper.pdf) NDSS '18.
 
 ## Platform
-* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv preprint arXiv:1506.03471 '15.
+* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.
 * Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.
 * Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.
 * Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.

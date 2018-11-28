@@ -20,6 +20,7 @@ Papers are merely about smart contracts.
 
 ## Scalable smart contracts
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) '17.
+* Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.
 
 ## Pirvacy
 * Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) '15.

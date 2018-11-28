@@ -1,5 +1,5 @@
 # List of Smart Contract Papers
-Only about smart contracts.
+Papers are merely about smart contracts.
 
 ## Basic Readings 
 * Vitalik Buterin. ["Ethereum white paper: A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) '14.

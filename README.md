@@ -2,7 +2,8 @@
 Papers are merely about smart contracts.
 
 ## Basic
-* Vitalik Buterin. ["Ethereum white paper: A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) '14.
+* Ethereum white paper 
+Vitalik Buterin. ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) '14.
 * Wood G. ["Ethereum yellow paper: Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) '14.
 
 ## IoT

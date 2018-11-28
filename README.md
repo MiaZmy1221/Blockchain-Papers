@@ -8,16 +8,16 @@ Vitalik Buterin. ["A next-generation smart contract and decentralized applicatio
 Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) '14.
 
 ## IoT
-* Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) '16.
+* Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) IEEE access '16.
 
 ## Tutorial
-* Bill Marino, authorAri Juels. [Setting Standards for Altering and Undoing Smart Contracts.](https://www.are.na/block/838820) '16.
+* Bill Marino, authorAri Juels. [Setting Standards for Altering and Undoing Smart Contracts.](https://www.are.na/block/838820) RuleML '16.
 * Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.
 * Bonneau J. ["EthIKS: Using Ethereum to audit a CONIKS key transparency log."](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf) FC '16.
 * Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) '16.
 
 ## Attacks
-* Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) '17.
+* Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) POST '17.
 * Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) '17.
 
 ## Scalable

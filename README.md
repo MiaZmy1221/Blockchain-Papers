@@ -51,5 +51,6 @@ Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity
 * Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) '18.
 * Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) '18.
 
-* []() '16.
+* Matt Suiche. [Porosity: A Decompiler For Blockchain-Based Smart Contracts Bytecode.](https://www.comae.com/reports/dc25-msuiche-Porosity-Decompiling-Ethereum-Smart-Contracts-wp.pdf) '17.
+* Anastasia Mavridou, Aron Laszka. [Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach.](https://arxiv.org/pdf/1711.09327.pdf) '17.
 

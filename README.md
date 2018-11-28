@@ -18,7 +18,7 @@ Papers are merely about smart contracts.
 * Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) '17.
 * Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) '17.
 
-## Scalable smart contracts
+## Scalable
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) '17.
 * Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.
 
@@ -42,7 +42,7 @@ Papers are merely about smart contracts.
 ## Bytecode
 * Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) '18.
 
-## Tool or Framework
+## Tool&&Framework
 ### Decompiler
 * Matt Suiche. [Porosity: A Decompiler For Blockchain-Based Smart Contracts Bytecode.](https://www.comae.com/reports/dc25-msuiche-Porosity-Decompiling-Ethereum-Smart-Contracts-wp.pdf) '17.
 * Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, Michael Bailey. ["Erays: Reverse Engineering Ethereum's Opaque Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf) USENIX '18.

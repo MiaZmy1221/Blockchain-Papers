@@ -25,6 +25,7 @@ Papers are merely about smart contracts.
 ## Pirvacy
 * Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.
 * Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.
+* Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16.
 * McCorry P, Shahandashti SF, Hao F. ["A Smart Contract for Boardroom Voting with Maximum Voter Privacy."](http://fc17.ifca.ai/preproceedings/paper_80.pdf) FC '17.
 * Hubert Ritzdorf, Karl Wust, Arthur Gervais, Guillaume Felley, Srdjan Capkun. ["TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-4_Ritzdorf_paper.pdf) NDSS '18.
 
@@ -42,30 +43,32 @@ Papers are merely about smart contracts.
 ## Bytecode
 * Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) CPP '18.
 
-## Tool&&Framework
-### Decompiler
-* Matt Suiche. [Porosity: A Decompiler For Blockchain-Based Smart Contracts Bytecode.](https://www.comae.com/reports/dc25-msuiche-Porosity-Decompiling-Ethereum-Smart-Contracts-wp.pdf) White paper, '17.
-
-### Vulnerabilities of smart contracts
-* Johannes Krupp, Christian Rossow. ["teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf) USENIX '18.
-* Lorenz Breidenbach, Philip Daian, Florian Tramer, Ari Juels. ["Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-breidenbach.pdf) USENIX '18.
-
-### Security analysis of smart contracts
-* Petar Tsankov, Petar Tsankov, Dana Drachsler-Cohen. ["Securify: Practical Security Analysis of Smart Contracts."](https://arxiv.org/pdf/1806.01143.pdf) CCS '18.
-* Sukrit Kalra, Seep Goe, Mohan Dhawan, Subodh Sharma. ["ZEUS: Analyzing Safety of Smart Contracts."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf) NDSS '18.
-* Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Fran ̧cois Gauthier, Vincent Gramoli, Ralph Holz, Bernhard Scholz. ["Vandal:  A Scalable Security Analysis Framework for Smart Contracts."](https://arxiv.org/pdf/1809.03981.pdf) arXiv preprint arXiv:1809.03981v1 '18.
-
-### Others
-* Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter."](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.
-* Juels A, Kosba A, Shi E. ["The Ring of Gyges: Investigating the Future of Criminal Smart Contracts."](https://www.initc3.org/files/Gyges.pdf) CCS'16.
-* Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16.
-* Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) FAS*W '16.
-* Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, Michael Bailey. ["Erays: Reverse Engineering Ethereum's Opaque Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf) USENIX '18.
-
 ## Analysis of smart contracts
 * Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) RuleML '16.
 * Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) FC '17.
 * Valentina Gatteschi, Fabrizio Lamberti, Claudio Demartini, Chiara Pranteda, Víctor Santamaría. ["Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?."](https://www.mdpi.com/1999-5903/10/2/20/pdf) Future Internet '18.
+
+## Tool or Framework or System
+### Contracts
+* Juels A, Kosba A, Shi E. ["The Ring of Gyges: Investigating the Future of Criminal Smart Contracts."](https://www.initc3.org/files/Gyges.pdf) CCS'16.
+* Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) FAS*W '16.
+
+### Symbolic execution engine
+* Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter."](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.
+* [Manticore](https://media.readthedocs.org/pdf/manticore/latest/manticore.pdf). [https://github.com/trailofbits/manticore](https://github.com/trailofbits/manticore). '17
+
+### Decompiler
+* Matt Suiche. [Porosity: A Decompiler For Blockchain-Based Smart Contracts Bytecode.](https://www.comae.com/reports/dc25-msuiche-Porosity-Decompiling-Ethereum-Smart-Contracts-wp.pdf) White paper, '17.
+* Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, Michael Bailey. ["Erays: Reverse Engineering Ethereum's Opaque Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf) USENIX '18.
+
+### Exploit
+* Johannes Krupp, Christian Rossow. ["teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf) USENIX '18.
+* Lorenz Breidenbach, Philip Daian, Florian Tramer, Ari Juels. ["Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-breidenbach.pdf) USENIX '18.
+
+### Security analysis
+* Petar Tsankov, Petar Tsankov, Dana Drachsler-Cohen. ["Securify: Practical Security Analysis of Smart Contracts."](https://arxiv.org/pdf/1806.01143.pdf) CCS '18.
+* Sukrit Kalra, Seep Goe, Mohan Dhawan, Subodh Sharma. ["ZEUS: Analyzing Safety of Smart Contracts."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf) NDSS '18.
+* Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Fran ̧cois Gauthier, Vincent Gramoli, Ralph Holz, Bernhard Scholz. ["Vandal:  A Scalable Security Analysis Framework for Smart Contracts."](https://arxiv.org/pdf/1809.03981.pdf) arXiv preprint arXiv:1809.03981v1 '18.
 
 ## Bitcoin smart contracts
 * Massimo Bartoletti, Roberto Zunino. ["BitML: A Calculus for Bitcoin Smart Contracts."](https://eprint.iacr.org/2018/122.pdf) CCS '18.

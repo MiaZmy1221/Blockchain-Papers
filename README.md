@@ -37,7 +37,7 @@ Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity
 
 ## Others
 * Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) '15.
-* Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) SP'16.
+* Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) '16.
 * Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) '16.
 * Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) '16.
 * Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) '16.
@@ -45,9 +45,10 @@ Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity
 * Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) '17.
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) '17.
 * Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) '17.
+* Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) '17.
 * Ence Zhou, Song Hua, Bingfeng Pi, Jun Sun, Yashihide Nomura, Kazuhiro Yamashita, Kazuhiro Yamashita, Hidetoshi Kurihara. ["Security Assurance for Smart Contract."](https://ieeexplore.ieee.org/document/8328743/authors#authors) '18.
 * Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) '18.
-
+* []() '16.
 * []() '16.
 * []() '16.
 

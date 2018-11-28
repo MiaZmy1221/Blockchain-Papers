@@ -1,11 +1,11 @@
 # List of Smart Contract Papers
+Only about smart contracts.
 
 ## Basic Readings 
 * Vitalik Buterin. ["Ethereum white paper: A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) '14.
 * Wood G. ["Ethereum yellow paper: Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) '14.
 
 ## Four Top conferences
-Only about smart contracts.
 ### CCS
 * Loi Luu, Jason Teutsch, Raghav Kulkarn. ["Demystifying Incentives in the Consensus Computer."](https://eprint.iacr.org/2015/702.pdf) CCS '15.
 * Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter."](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.

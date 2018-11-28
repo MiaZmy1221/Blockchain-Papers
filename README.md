@@ -47,10 +47,8 @@ Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) '17.
 * Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) '17.
 * Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) '17.
+* Matt Suiche. [Porosity: A Decompiler For Blockchain-Based Smart Contracts Bytecode.](https://www.comae.com/reports/dc25-msuiche-Porosity-Decompiling-Ethereum-Smart-Contracts-wp.pdf) '17.
+* Anastasia Mavridou, Aron Laszka. [Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach.](https://arxiv.org/pdf/1711.09327.pdf) '17.
 * Ence Zhou, Song Hua, Bingfeng Pi, Jun Sun, Yashihide Nomura, Kazuhiro Yamashita, Kazuhiro Yamashita, Hidetoshi Kurihara. ["Security Assurance for Smart Contract."](https://ieeexplore.ieee.org/document/8328743/authors#authors) '18.
 * Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) '18.
 * Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) '18.
-
-* Matt Suiche. [Porosity: A Decompiler For Blockchain-Based Smart Contracts Bytecode.](https://www.comae.com/reports/dc25-msuiche-Porosity-Decompiling-Ethereum-Smart-Contracts-wp.pdf) '17.
-* Anastasia Mavridou, Aron Laszka. [Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach.](https://arxiv.org/pdf/1711.09327.pdf) '17.
-

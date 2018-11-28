@@ -41,7 +41,12 @@ Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity
 * Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) '16.
 * Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) '16.
 * Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) '16.
+* K. Bhargavan et al. [Formal Verification of Smart Contracts: Short Paper.](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdf?ip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) '16.
 * Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) '17.
 * Ence Zhou, Song Hua, Bingfeng Pi, Jun Sun, Yashihide Nomura, Kazuhiro Yamashita, Kazuhiro Yamashita, Hidetoshi Kurihara. ["Security Assurance for Smart Contract."](https://ieeexplore.ieee.org/document/8328743/authors#authors) '18.
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Cohttps://arxiv.org/pdf/1804.05141.pdfn '18.tracts."](https://plasma.io/plasma.pdf) '17.
 * Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) '18.
+* []() '16.
+* []() '16.
+* []() '16.
+

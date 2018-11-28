@@ -4,11 +4,6 @@
 * Vitalik Buterin. ["Ethereum white paper: A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) '14.
 * Wood G. ["Ethereum yellow paper: Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) '14.
 
-## Tutorials
-* Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.
-* Bonneau J. ["EthIKS: Using Ethereum to audit a CONIKS key transparency log."](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf) FC '16.
-* McCorry P, Shahandashti SF, Hao F. ["A Smart Contract for Boardroom Voting with Maximum Voter Privacy."](http://fc17.ifca.ai/preproceedings/paper_80.pdf) FC '17.
-
 ## Four Top conferences
 Only about smart contracts.
 ### CCS
@@ -34,15 +29,19 @@ Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity
 * Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.
 * Hubert Ritzdorf, Karl Wust, Arthur Gervais, Guillaume Felley, Srdjan Capkun. ["TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-4_Ritzdorf_paper.pdf) NDSS '18.
 
+## Tutorials
+* Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.
+* Bonneau J. ["EthIKS: Using Ethereum to audit a CONIKS key transparency log."](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf) FC '16.
+* McCorry P, Shahandashti SF, Hao F. ["A Smart Contract for Boardroom Voting with Maximum Voter Privacy."](http://fc17.ifca.ai/preproceedings/paper_80.pdf) FC '17.
+* Valentina Gatteschi 1, Fabrizio Lamberti, Claudio Demartini, Chiara Pranteda, Víctor Santamaría. ["Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?."](https://www.mdpi.com/1999-5903/10/2/20/pdf) '18.
+
 ## Others
 * Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) '15.
 * Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) SP'16.
 * Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) '16.
+* Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) '16.
+* Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) '16.
 * Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) '17.
-* . ["."]() '16.
-* . ["."]() '16.
-* . ["."]() '16.
-* . ["."]() '16.
-
-
-
+* Ence Zhou, Song Hua, Bingfeng Pi, Jun Sun, Yashihide Nomura, Kazuhiro Yamashita, Kazuhiro Yamashita, Hidetoshi Kurihara. ["Security Assurance for Smart Contract."](https://ieeexplore.ieee.org/document/8328743/authors#authors) '18.
+* Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Cohttps://arxiv.org/pdf/1804.05141.pdfn '18.tracts."](https://plasma.io/plasma.pdf) '17.
+* Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) '18.

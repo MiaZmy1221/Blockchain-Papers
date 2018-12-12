@@ -58,11 +58,11 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 * Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16. 
 
 ## 5 Performance issues
-### 5.1 Scalable smart contracts
+### 5.1 Scalability
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) White paper, '17.  
 * Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.  
 
-### 5.2 Parallel execution of smart contracts
+### 5.2 Parallel execution
 * Marko Vukolic. ["Rethinking Permissioned Blockchains."](http://vukolic.com/rethinking-permissioned-blockchains-BCC2017.pdf) BCC '17. 
 
 ### 5.3 Sharding

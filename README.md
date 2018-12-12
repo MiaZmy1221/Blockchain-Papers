@@ -9,7 +9,7 @@ Classifying those papers are according to paper: .
   Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) Yellow paper, '14.  
 
 ## Codifying issues
-### Writing correct smart contracts
+### Difficulty of writing correct smart contracts
 * Guidlines to write smart contracts  
   Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.  
 * Semi-automate the creation of smart contracts  
@@ -18,8 +18,14 @@ Classifying those papers are according to paper: .
   Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. [Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods.](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.  
   K. Bhargavan et al. [Formal Verification of Smart Contracts: Short Paper.](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.  
 ### Inability to modify or terminate smart contracts
-* A set of standards for modifying an terminating  
+* A set of standards for modifying and terminating smart contracts    
   Bill Marino, authorAri Juels. [Setting Standards for Altering and Undoing Smart Contracts.](https://www.are.na/block/838820) RuleML '16.  
+### Lack of identifying under-optimized smart contracts
+* Use GASPER tool  
+  Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) SANER '17.  
+### Complexity of programming language
+* Use logic based languages  
+  Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) RuleML '16.  
 
 ## IoT
 * Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) IEEE Access '16.
@@ -31,7 +37,7 @@ Classifying those papers are according to paper: .
 
 ## Attacks
 * Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) POST '17.
-* Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) SANER '17.
+
 
 ## Scalable
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) White paper, '17.
@@ -58,7 +64,6 @@ Classifying those papers are according to paper: .
 * Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) CPP '18.
 
 ## Analysis of smart contracts
-* Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) RuleML '16.
 * Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) FC '17.
 * Valentina Gatteschi, Fabrizio Lamberti, Claudio Demartini, Chiara Pranteda, Víctor Santamaría. ["Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?."](https://www.mdpi.com/1999-5903/10/2/20/pdf) Future Internet '18.
 

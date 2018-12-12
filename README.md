@@ -52,6 +52,7 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Bl
 * Private smart contracts  
   Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.  
   Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.  
+  Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.  
 ### Data feeds privacy
 * Use Town Crier  
   Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16. 
@@ -63,7 +64,10 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Bl
   Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.  
 ### Sequential execution of smart contracts
 * Parallel execution  
-  Marko Vukolic. ["Rethinking Permissioned Blockchains."](http://vukolic.com/rethinking-permissioned-blockchains-BCC2017.pdf) BCC '17.  
+  Marko Vukolic. ["Rethinking Permissioned Blockchains."](http://vukolic.com/rethinking-permissioned-blockchains-BCC2017.pdf) BCC '17. 
+### Sharding
+* Sharded smart contracts  
+  Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.  
 
 ## Other issues
 ### Smart contracts and IoT
@@ -75,12 +79,6 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Bl
 * Bonneau J. ["EthIKS: Using Ethereum to audit a CONIKS key transparency log."](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf) FC '16.
 * Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) Cryptology ePrint Archive '16.
 
-## Platform
-* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.
-* Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.
-* Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.
-* Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.
-
 ## Bytecode
 * Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) CPP '18.
 
@@ -88,7 +86,7 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Bl
 * Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) FC '17.
 * Valentina Gatteschi, Fabrizio Lamberti, Claudio Demartini, Chiara Pranteda, Víctor Santamaría. ["Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?."](https://www.mdpi.com/1999-5903/10/2/20/pdf) Future Internet '18.
 
-## Tool or Framework or System
+## Tool
 ### Symbolic execution engine
 * Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter."](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.
 * [Manticore](https://media.readthedocs.org/pdf/manticore/latest/manticore.pdf). [https://github.com/trailofbits/manticore](https://github.com/trailofbits/manticore). '17

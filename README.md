@@ -1,6 +1,6 @@
 # List of Smart Contract Papers
 Papers are merely about smart contracts.  
-Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Blockchain-based Smart Contracts: A Systematic Mapping Study.](https://arxiv.org/ftp/arxiv/papers/1710/1710.06372.pdf). arXiv preprint arXiv:1710.06372 '17.  
+Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Blockchain-based Smart Contracts: A Systematic Mapping Study.](https://arxiv.org/ftp/arxiv/papers/1710/1710.06372.pdf) arXiv preprint arXiv:1710.06372 '17.  
 
 ## Basic
 * White paper of smart contracts  
@@ -44,22 +44,34 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Bl
   Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) POST '17.  
   
 ## Pirvacy issues
-* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.
-* Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.
-* McCorry P, Shahandashti SF, Hao F. ["A Smart Contract for Boardroom Voting with Maximum Voter Privacy."](http://fc17.ifca.ai/preproceedings/paper_80.pdf) FC '17.
-* Hubert Ritzdorf, Karl Wust, Arthur Gervais, Guillaume Felley, Srdjan Capkun. ["TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-4_Ritzdorf_paper.pdf) NDSS '18.
+### Transactional privacy
+* Private smart contracts  
+  Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.  
+  Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.  
+* Use encryption methods  
+  Hiroki Watanabe, Shigeru Fujimura, Atsushi Nakadaira, Yasuhiko Miyazaki, Akihito Akutsu, Jay Junichi Kishigami. ["Blockchain contract: A complete consensus using blockchain."](https://ieeexplore.ieee.org/document/7398721) GCCE '15.  
+### Data feeds privacy
+* Use Town Crier  
+  Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16. 
+
+## Performance issues
+### Scalable smart contracts
+* Scalable smart contracts  
+  Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) White paper, '17.  
+  Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.  
+### Sequential execution of smart contracts
+* Parallel execution  
+  Marko Vukolic. ["Rethinking Permissioned Blockchains."](http://vukolic.com/rethinking-permissioned-blockchains-BCC2017.pdf) BCC '17.  
 
 ## Other issues
 ### Smart contracts and IoT
 * Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) IEEE Access '16.
+* McCorry P, Shahandashti SF, Hao F. ["A Smart Contract for Boardroom Voting with Maximum Voter Privacy."](http://fc17.ifca.ai/preproceedings/paper_80.pdf) FC '17.
+* Hubert Ritzdorf, Karl Wust, Arthur Gervais, Guillaume Felley, Srdjan Capkun. ["TLS-N: Non-repudiation over TLS Enabling Ubiquitous Content Signing."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-4_Ritzdorf_paper.pdf) NDSS '18.
 
 ## Tutorial
 * Bonneau J. ["EthIKS: Using Ethereum to audit a CONIKS key transparency log."](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf) FC '16.
 * Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) Cryptology ePrint Archive '16.
-
-## Scalable
-* Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) White paper, '17.
-* Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.
 
 ## Platform
 * Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.

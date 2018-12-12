@@ -3,9 +3,9 @@ Papers are merely about smart contracts.
 Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["Blockchain-based Smart Contracts: A Systematic Mapping Study."](https://arxiv.org/ftp/arxiv/papers/1710/1710.06372.pdf) arXiv preprint arXiv:1710.06372 '17.  
 
 ## 1 Basic readings
-### White paper of smart contracts  
+### White paper
 * Vitalik Buterin. ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) White paper, '14.  
-### Yellow paper of smart contracts  
+### Yellow paper
 * Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) Yellow paper, '14.  
 
 ## 2 Codifying issues
@@ -34,58 +34,55 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 
 ## 3 Security issues
 ### Criminal smart contract activities
-* Criminal smart contracts  
-  Juels A, Kosba A, Shi E. ["The Ring of Gyges: Investigating the Future of Criminal Smart Contracts."](https://www.initc3.org/files/Gyges.pdf) CCS'16.  
+#### Criminal smart contracts  
+* Juels A, Kosba A, Shi E. ["The Ring of Gyges: Investigating the Future of Criminal Smart Contracts."](https://www.initc3.org/files/Gyges.pdf) CCS'16.  
 ### Lack of trustworthy data feeds
-* Use Town Crier  
-  Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16.  
-### Vulnerabilities
-
+#### Use Town Crier  
+* Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16.  
 ### Attacks
-* Survey of attacks  
-  Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) POST '17.  
+#### Survey of attacks  
+* Nicola Atzei, Massimo Bartoletti, Tiziana Cimoli. ["A survey of attacks on Ethereum smart contracts."](https://eprint.iacr.org/2016/1007.pdf) POST '17.  
   
 ## 4 Pirvacy issues
 ### Transactional privacy
-* Use encryption methods  
-  Hiroki Watanabe, Shigeru Fujimura, Atsushi Nakadaira, Yasuhiko Miyazaki, Akihito Akutsu, Jay Junichi Kishigami. ["Blockchain contract: A complete consensus using blockchain."](https://ieeexplore.ieee.org/document/7398721) GCCE '15.
-* Private smart contracts  
-  Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.  
-  Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.  
-  Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.  
+#### Use encryption methods  
+* Hiroki Watanabe, Shigeru Fujimura, Atsushi Nakadaira, Yasuhiko Miyazaki, Akihito Akutsu, Jay Junichi Kishigami. ["Blockchain contract: A complete consensus using blockchain."](https://ieeexplore.ieee.org/document/7398721) GCCE '15.
+#### Private smart contracts  
+* Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.  
+* Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.  
+* Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.  
 ### Data feeds privacy
-* Use Town Crier  
-  Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16. 
+#### Use Town Crier  
+* Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16. 
 
 ## 5 Performance issues
 ### Scalable smart contracts
-* Scalable smart contracts  
-  Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) White paper, '17.  
-  Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.  
+#### Scalable smart contracts  
+* Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) White paper, '17.  
+* Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.  
 ### Sequential execution of smart contracts
-* Parallel execution  
-  Marko Vukolic. ["Rethinking Permissioned Blockchains."](http://vukolic.com/rethinking-permissioned-blockchains-BCC2017.pdf) BCC '17. 
+#### Parallel execution  
+* Marko Vukolic. ["Rethinking Permissioned Blockchains."](http://vukolic.com/rethinking-permissioned-blockchains-BCC2017.pdf) BCC '17. 
 ### Sharding
-* Sharded smart contracts  
-  Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.  
+* Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.  
 
 ## 6 Analysis issues
 ### Symbolic execution engine
 * Luu L, Chu DH, Olickel H, Saxena P, Hobor A. ["Oyente: Making Smart Contracts Smarter."](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf) CCS '16.
 * ["Manticore"](https://media.readthedocs.org/pdf/manticore/latest/manticore.pdf). [https://github.com/trailofbits/manticore](https://github.com/trailofbits/manticore). '17
-
 ### Decompiler
 * Matt Suiche. ["Porosity: A Decompiler For Blockchain-Based Smart Contracts Bytecode."](https://www.comae.com/reports/dc25-msuiche-Porosity-Decompiling-Ethereum-Smart-Contracts-wp.pdf) White paper, '17.
 * Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, Michael Bailey. ["Erays: Reverse Engineering Ethereum's Opaque Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf) USENIX '18.
-
 ### Exploit
 * Johannes Krupp, Christian Rossow. ["teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf) USENIX '18.
 * Lorenz Breidenbach, Philip Daian, Florian Tramer, Ari Juels. ["Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-breidenbach.pdf) USENIX '18.
-
 ### Security analysis
 * Petar Tsankov, Petar Tsankov, Dana Drachsler-Cohen. ["Securify: Practical Security Analysis of Smart Contracts."](https://arxiv.org/pdf/1806.01143.pdf) CCS '18.
 * Sukrit Kalra, Seep Goe, Mohan Dhawan, Subodh Sharma. ["ZEUS: Analyzing Safety of Smart Contracts."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf) NDSS '18.
 * Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Fran ̧cois Gauthier, Vincent Gramoli, Ralph Holz, Bernhard Scholz. ["Vandal:  A Scalable Security Analysis Framework for Smart Contracts."](https://arxiv.org/pdf/1809.03981.pdf) arXiv preprint arXiv:1809.03981v1 '18.
+### Analysis of smart contracts
+* Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) FC '17.
+* Valentina Gatteschi, Fabrizio Lamberti, Claudio Demartini, Chiara Pranteda, Víctor Santamaría. ["Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?."](https://www.mdpi.com/1999-5903/10/2/20/pdf) Future Internet '18.
 
 ## 7 Other issues
 ### Smart contracts and IoT
@@ -99,10 +96,6 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 
 ### Bytecode
 * Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) CPP '18.
-
-### Analysis of smart contracts
-* Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) FC '17.
-* Valentina Gatteschi, Fabrizio Lamberti, Claudio Demartini, Chiara Pranteda, Víctor Santamaría. ["Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?."](https://www.mdpi.com/1999-5903/10/2/20/pdf) Future Internet '18.
 
 ### Bitcoin smart contracts
 * Massimo Bartoletti, Roberto Zunino. ["BitML: A Calculus for Bitcoin Smart Contracts."](https://eprint.iacr.org/2018/122.pdf) CCS '18.

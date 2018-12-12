@@ -1,6 +1,6 @@
 # List of Smart Contract Papers
 Papers are merely about smart contracts.  
-Classifying those papers are according to paper: . 
+Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Blockchain-based Smart Contracts: A Systematic Mapping Study.](https://arxiv.org/ftp/arxiv/papers/1710/1710.06372.pdf). arXiv preprint arXiv:1710.06372 '17.  
 
 ## Basic
 * White paper of smart contracts  
@@ -20,18 +20,20 @@ Classifying those papers are according to paper: .
 ### Inability to modify or terminate smart contracts
 * A set of standards for modifying and terminating smart contracts    
   Bill Marino, authorAri Juels. [Setting Standards for Altering and Undoing Smart Contracts.](https://www.are.na/block/838820) RuleML '16.  
-### Lack of identifying under-optimized smart contracts
-* Use GASPER tool  
-  Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) SANER '17.  
 ### Complexity of programming language
 * Use logic based languages  
   Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) RuleML '16.  
+### Lack of identifying under-optimized smart contracts
+* Use GASPER tool  
+  Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. [Under-optimized smart contracts devour your money.](https://ieeexplore.ieee.org/document/7884650) SANER '17.  
+
+## Security issues
+### 
 
 ## IoT
 * Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) IEEE Access '16.
 
 ## Tutorial
-
 * Bonneau J. ["EthIKS: Using Ethereum to audit a CONIKS key transparency log."](http://fc16.ifca.ai/bitcoin/papers/Bon16a.pdf) FC '16.
 * Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) Cryptology ePrint Archive '16.
 

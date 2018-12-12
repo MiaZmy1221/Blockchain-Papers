@@ -57,7 +57,7 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 #### Private smart contracts  
 * Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.  
 * Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.  
-* Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.  
+* Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. ["Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts."](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.  
 
 ### Data feeds privacy
 #### Use Town Crier  
@@ -95,7 +95,7 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 * Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Fran ̧cois Gauthier, Vincent Gramoli, Ralph Holz, Bernhard Scholz. ["Vandal:  A Scalable Security Analysis Framework for Smart Contracts."](https://arxiv.org/pdf/1809.03981.pdf) arXiv preprint arXiv:1809.03981v1 '18.
 
 ### Analysis of smart contracts
-* Massimo Bartoletti, Livio Pompianu. [An empirical analysis of smart contracts: platforms, applications, and design patterns.](https://arxiv.org/pdf/1703.06322.pdf) FC '17.
+* Massimo Bartoletti, Livio Pompianu. ["An empirical analysis of smart contracts: platforms, applications, and design patterns."](https://arxiv.org/pdf/1703.06322.pdf) FC '17.
 * Valentina Gatteschi, Fabrizio Lamberti, Claudio Demartini, Chiara Pranteda, Víctor Santamaría. ["Blockchain and Smart Contracts for Insurance: Is the Technology Mature Enough?."](https://www.mdpi.com/1999-5903/10/2/20/pdf) Future Internet '18.
 
 ## 7 Other issues
@@ -109,7 +109,7 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 * Pablo Lamela Seijas, Simon J. Thompson, Darryl McAdams. ["Scripting smart contracts for distributed ledger technology."](https://pdfs.semanticscholar.org/1621/0b8baf43504d8307ad1bec88c5c9c2317ecb.pdf?_ga=2.183212389.2117510310.1543371967-39145124.1543371967) Cryptology ePrint Archive '16.
 
 ### Bytecode
-* Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. [Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL.](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) CPP '18.
+* Sidney Amani, Myriam Bégel, Maksym Bortin, Mark Staples. ["Towards Verifying Ethereum Smart Contract Bytecode in Isabelle/HOL."](https://ts.data61.csiro.au/publications/csiro_full_text//Amani_BBS_18.pdf) CPP '18.
 
 ### Bitcoin smart contracts
 * Massimo Bartoletti, Roberto Zunino. ["BitML: A Calculus for Bitcoin Smart Contracts."](https://eprint.iacr.org/2018/122.pdf) CCS '18.

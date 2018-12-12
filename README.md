@@ -2,6 +2,12 @@
 Papers are merely about smart contracts.
 Classifying those papers are according to paper: . 
 
+## Basic
+* White paper of smart contracts  
+  Vitalik Buterin. ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) White paper, '14.  
+* Yellow paper of smart contracts  
+  Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) Yellow paper, '14.  
+
 ## Codifying issues
 ### Writing correct smart contracts
 * Guidlines to write smart contracts  
@@ -11,10 +17,6 @@ Classifying those papers are according to paper: .
 * Use of formal verification methods  
   Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. [Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods.](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.  
   K. Bhargavan et al. [Formal Verification of Smart Contracts: Short Paper.](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.  
-
-## Basic
-* Vitalik Buterin. ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) White paper, '14.
-* Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) Yellow paper, '14.
 
 ## IoT
 * Konstantinos Christidis, Michael Devetsikiotis. ["Blockchains and Smart Contracts for the Internet of Things."](https://ieeexplore.ieee.org/abstract/document/7467408) IEEE Access '16.

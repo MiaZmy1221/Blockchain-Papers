@@ -45,11 +45,11 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Bl
   
 ## Pirvacy issues
 ### Transactional privacy
+* Use encryption methods  
+  Hiroki Watanabe, Shigeru Fujimura, Atsushi Nakadaira, Yasuhiko Miyazaki, Akihito Akutsu, Jay Junichi Kishigami. ["Blockchain contract: A complete consensus using blockchain."](https://ieeexplore.ieee.org/document/7398721) GCCE '15.
 * Private smart contracts  
   Guy Zyskind, Oz Nathan, Alex Pentland. ["Enigma: Decentralized Computation Platform with Guaranteed Privacy."](https://enigma.co/enigma_full.pdf) arXiv (whitepaper) '15.  
   Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. ["Hawk: The blockchain model of cryptography and privacy-preserving smart contracts."](https://ieeexplore.ieee.org/document/7546538) S&P '16.  
-* Use encryption methods  
-  Hiroki Watanabe, Shigeru Fujimura, Atsushi Nakadaira, Yasuhiko Miyazaki, Akihito Akutsu, Jay Junichi Kishigami. ["Blockchain contract: A complete consensus using blockchain."](https://ieeexplore.ieee.org/document/7398721) GCCE '15.  
 ### Data feeds privacy
 * Use Town Crier  
   Zhang F, Cecchetti E, Croman K, Juels A, Shi E. ["Town Crier: An Authenticated Data Feed for Smart Contracts."](https://eprint.iacr.org/2016/168.pdf) CCS '16. 

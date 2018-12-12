@@ -3,34 +3,34 @@ Papers are merely about smart contracts.
 Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["Blockchain-based Smart Contracts: A Systematic Mapping Study."](https://arxiv.org/ftp/arxiv/papers/1710/1710.06372.pdf) arXiv preprint arXiv:1710.06372 '17.  
 
 ## 1 Basic readings
-* White paper of smart contracts  
-  Vitalik Buterin. ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) White paper, '14.  
-* Yellow paper of smart contracts  
-  Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) Yellow paper, '14.  
+### White paper of smart contracts  
+* Vitalik Buterin. ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) White paper, '14.  
+### Yellow paper of smart contracts  
+* Wood G. ["Ethereum: A secure decentralised generalised transaction ledger."](http://gavwood.com/paper.pdf) Yellow paper, '14.  
 
 ## 2 Codifying issues
 ### Difficulty of writing correct smart contracts
-* Guidlines to write smart contracts  
-  Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.  
-* Semi-automate the creation of smart contracts  
-  Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) FAS*W '16.  
-* Use of formal verification methods  
-  Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. ["Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods."](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.  
-  K. Bhargavan et al. ["Formal Verification of Smart Contracts: Short Paper."](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.  
+#### Guidlines to write smart contracts  
+* Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.  
+#### Semi-automate the creation of smart contracts  
+* Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) FAS*W '16.  
+#### Use of formal verification methods  
+* Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. ["Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods."](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.  
+* K. Bhargavan et al. ["Formal Verification of Smart Contracts: Short Paper."](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.  
 ### Inability to modify or terminate smart contracts
-* A set of standards for modifying and terminating smart contracts    
-  Bill Marino, authorAri Juels. ["Setting Standards for Altering and Undoing Smart Contracts."](https://www.are.na/block/838820) RuleML '16.  
+#### A set of standards for modifying and terminating smart contracts    
+* Bill Marino, authorAri Juels. ["Setting Standards for Altering and Undoing Smart Contracts."](https://www.are.na/block/838820) RuleML '16.  
 ### Complexity of programming language
-* Use logic based languages  
-  Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) RuleML '16.  
+#### Use logic based languages  
+* Florian Idelberger, Guido Governatori, Régis Riveret, Giovanni Sartor. ["Evaluation of Logic-Based Smart Contracts for Blockchain Systems."](https://pdfs.semanticscholar.org/00fc/74dc41586ca4172647aa58848c3af59e6c50.pdf?_ga=2.81558100.2117510310.1543371967-39145124.1543371967) RuleML '16.  
 ### Lack of identifying under-optimized smart contracts
-* Use GASPER tool  
-  Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. ["Under-optimized smart contracts devour your money."](https://ieeexplore.ieee.org/document/7884650) SANER '17.  
+#### Use GASPER tool  
+* Ting Chen, Xiaoqi Li, Xiapu Luo, Xiaosong Zhang. ["Under-optimized smart contracts devour your money."](https://ieeexplore.ieee.org/document/7884650) SANER '17.  
 ### Insecure smart contracts
-* Security assurance  
-  Ence Zhou, Song Hua, Bingfeng Pi, Jun Sun, Yashihide Nomura, Kazuhiro Yamashita, Kazuhiro Yamashita, Hidetoshi Kurihara. ["Security Assurance for Smart Contract."](https://ieeexplore.ieee.org/document/8328743/authors#authors) NTMS '18.
-* Design secure smart contracts  
-  Anastasia Mavridou, Aron Laszka. ["Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach."](https://arxiv.org/pdf/1711.09327.pdf) FC '18.  
+#### Security assurance  
+* Ence Zhou, Song Hua, Bingfeng Pi, Jun Sun, Yashihide Nomura, Kazuhiro Yamashita, Kazuhiro Yamashita, Hidetoshi Kurihara. ["Security Assurance for Smart Contract."](https://ieeexplore.ieee.org/document/8328743/authors#authors) NTMS '18.
+#### Design secure smart contracts  
+* Anastasia Mavridou, Aron Laszka. ["Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach."](https://arxiv.org/pdf/1711.09327.pdf) FC '18.  
 
 ## 3 Security issues
 ### Criminal smart contract activities

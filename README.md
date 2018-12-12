@@ -15,8 +15,8 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. [Bl
 * Semi-automate the creation of smart contracts  
   Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) FAS*W '16.  
 * Use of formal verification methods  
-  Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. [Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods.](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.  
-  K. Bhargavan et al. [Formal Verification of Smart Contracts: Short Paper.](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.  
+  Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. ["Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods."](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.  
+  K. Bhargavan et al. ["Formal Verification of Smart Contracts: Short Paper."](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.  
 ### Inability to modify or terminate smart contracts
 * A set of standards for modifying and terminating smart contracts    
   Bill Marino, authorAri Juels. [Setting Standards for Altering and Undoing Smart Contracts.](https://www.are.na/block/838820) RuleML '16.  

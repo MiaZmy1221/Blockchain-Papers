@@ -4,13 +4,13 @@ Classifying those papers are according to paper: .
 
 ## Codifying issues
 ### Writing correct smart contracts
-* Guidlines to write smart contracts
-  Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.
-* Semi-automate the creation of smart contracts
-  Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) FAS*W '16.
-* Use of formal verification methods
-  Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. [Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods.](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.
-  K. Bhargavan et al. [Formal Verification of Smart Contracts: Short Paper.](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.
+* Guidlines to write smart contracts  
+  Delmolino K, Arnett M, Kosba A, Miller A, Shi E. ["Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab."](http://fc16.ifca.ai/bitcoin/papers/DAKMS16.pdf) FC '16.  
+* Semi-automate the creation of smart contracts  
+  Christopher K. Frantz, Mariusz Nowostawski. ["From Institutions to Code: Towards Automated Generation of Smart Contracts."](https://ieeexplore.ieee.org/document/7789470) FAS*W '16.  
+* Use of formal verification methods  
+  Giancarlo Bigi, Andrea Bracciali, Giovanni Meacci, Emilio Tuosto. [Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods.](https://link.springer.com/chapter/10.1007/978-3-319-25527-9_11) PLABS '15.  
+  K. Bhargavan et al. [Formal Verification of Smart Contracts: Short Paper.](http://delivery.acm.org/10.1145/3000000/2993611/p91-bhargavan.pdfip=108.169.232.161&id=2993611&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EB7370FA72C089961&__acm__=1543374312_ed51e1786fc3ef893548425eeb1b59e4) PLAS '16.  
 
 ## Basic
 * Vitalik Buterin. ["A next-generation smart contract and decentralized application platform."](https://www.weusecoins.com/assets/pdf/library/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf) White paper, '14.
@@ -47,7 +47,6 @@ Classifying those papers are according to paper: .
 * Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. [Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contracts.](https://arxiv.org/pdf/1804.05141.pdf) arXiv preprint arXiv:1804.05141 '18.
 
 ## Security
-
 * Anastasia Mavridou, Aron Laszka. [Designing Secure Ethereum Smart Contracts: A Finite State Machine Based Approach.](https://arxiv.org/pdf/1711.09327.pdf) FC '18.
 * Ence Zhou, Song Hua, Bingfeng Pi, Jun Sun, Yashihide Nomura, Kazuhiro Yamashita, Kazuhiro Yamashita, Hidetoshi Kurihara. ["Security Assurance for Smart Contract."](https://ieeexplore.ieee.org/document/8328743/authors#authors) NTMS '18.
 

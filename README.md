@@ -59,6 +59,7 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 
 ## 5 Performance issues
 ### 5.1 Scalability
+* Yonatan Sompolinsky, Aviv Zohar. ["Secure High-Rate Transaction Processing in Bitcoin."] FC '15.
 * Joseph Poon, Vitalik Buterin. ["Plasma: Scalable Autonomous Smart Contracts.](https://plasma.io/plasma.pdf) White paper, '17.  
 * Harry Kalodner, Steven Goldfeder, Xiaoqi Chen. ["Arbitrum: Scalable, private smart contracts."](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf) USENIX '18.  
 * Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezi. ["Chainspace: A Sharded Smart Contracts Platform."](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-2_Al-Bassam_paper.pdf) NDSS '18.  

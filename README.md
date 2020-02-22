@@ -66,6 +66,16 @@ Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["B
 
 ### 5.2 Parallel execution
 * Marko Vukolic. ["Rethinking Permissioned Blockchains."](http://vukolic.com/rethinking-permissioned-blockchains-BCC2017.pdf) BCC '17. 
+* Thomas Dickerson. ["Adding Concurrency to Smart Contracts"](http://www.erickoskinen.com/papers/podc17a.pdf)
+* Parwat Singh Anjana. ["An Efficient Framework for Optimistic Concurrent Execution of Smart Contracts"](https://www.iith.ac.in/~sathya_p/index_files/PDFs/PDP2019-SCFrame.pdf)
+* Vikram Saraph. ["An Empirical Study of Speculative Concurrency in Ethereum Smart Contracts"](https://arxiv.org/pdf/1901.01376.pdf)
+* Mohammad Javad Amiri.["ParBlockchain: Leveraging Transaction Parallelism in Permissioned Blockchain Systems"](https://sites.cs.ucsb.edu/~amiri/papers/oxii.pdf)
+* Massimo Bartoletti. ["A true concurrent model of smart contracts executions"](https://arxiv.org/pdf/1905.04366.pdf)
+* Shuaifeng Pang. ["Concurrency Protocol Aiming at High Performance of Execution and Replay for Smart Contracts"](https://arxiv.org/pdf/1905.07169.pdf)
+* Hung Dang. ["Towards Scaling Blockchain Systems via Sharding"](https://www.comp.nus.edu.sg/~hungdang/papers/sharding.pdf)
+* Alex Manuskin. ["Ostraka: Secure Blockchain Scaling by Node Sharding"](https://arxiv.org/pdf/1907.03331.pdf)
+* Shrey Baheti. ["DiPETrans: A Framework for Distributed Parallel Execution of Transactions of Blocks in Blockchain"](https://arxiv.org/pdf/1906.11721.pdf)
+
 
 ## 6 Analysis issues
 ### 6.1 Symbolic execution engine

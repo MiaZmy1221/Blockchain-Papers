@@ -1,6 +1,6 @@
-# List of Smart Contract Papers
-Papers are merely about smart contracts.  
-Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["Blockchain-based Smart Contracts: A Systematic Mapping Study."](https://arxiv.org/ftp/arxiv/papers/1710/1710.06372.pdf) arXiv preprint arXiv:1710.06372 '17.  
+# Blockchain Papers in Early Stage
+Classifying takes this paper as a reference: Maher Alharby, Aad van Moorsel. ["Blockchain-based Smart Contracts: A Systematic Mapping Study."](https://arxiv.org/ftp/arxiv/papers/1710/1710.06372.pdf) arXiv preprint arXiv:1710.06372 '17. 
+Please check the latest summary of blockchain security papers in my another Github repo. 
 
 ## 1 Basic readings
 ### 1.1 White paper
